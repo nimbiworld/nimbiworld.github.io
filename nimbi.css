@@ -169,9 +169,10 @@ label {
     position: top;
     top: 87%;
     width: 100%;
+    height: auto;
     min-height: 12%;
     z-index: 2;
-    background: #FAFAFA;
+    background: #000000;
 
 }
 
