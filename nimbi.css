@@ -199,7 +199,7 @@ label {
 
 /* This is the class used for the footer */
 .footer {
-    position: bottom;
+    position: fixed;
     height: 3em;
     bottom: 0;
     width: 100%;
