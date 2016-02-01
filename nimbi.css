@@ -173,8 +173,7 @@ label {
     display: block;
     overflow: visible;
     background: #000000;
-    padding-top: 10px;
-    padding-bottom: 20px;
+    margin: 20px;
 
 }
 
