@@ -200,8 +200,10 @@ label {
 .footer {
     position: absolute;
     height: 3em;
+    bottom: 0;
+    width: 100%;
     background: #111;
-	color: #fafafa;
+    color: #444449;
 }
 
 /*
