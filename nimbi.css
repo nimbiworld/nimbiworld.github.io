@@ -172,7 +172,7 @@ label {
     height: auto;
     min-height: 100%;
     display: block;
-    overflow: auto;
+    overflow: visible;
     background: #000000;
 
 }
